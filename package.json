@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "eslint .",
     "stylelint": "stylelint \"**/*.css\"",
-    "stylelint-check": "stylelint-config-prettier-check",
     "prettify": "prettier --write ."
   },
   "dependencies": {
